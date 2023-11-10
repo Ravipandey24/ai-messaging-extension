@@ -2,6 +2,11 @@ This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with
 
 ## Getting Started
 
+A working example of chatbot :-
+
+https://github.com/Ravipandey24/ai-messaging-extension/assets/79630119/5b13a746-7283-4226-8974-5c9eb2d8559b
+
+
 First, run the development server:
 
 ```bash
